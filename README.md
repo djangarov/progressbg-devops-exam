@@ -1,0 +1,1 @@
+Създаване на minikube kubernets cluster върху локална виртуална машина. Създаване на 2 web server Pod - a в клъстера и load-balancer зад тях посредством YAML файове.
